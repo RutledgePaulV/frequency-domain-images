@@ -19,12 +19,7 @@ Doing so permits you to see the effects of filtering in the frequency domain.
 - Right: The transformation of the current middle representation back into the frequency domain.
 
 
-<img src="https://lh3.googleusercontent.com/AV5OL-i5CgClfmwayDcp45NieGJeZt5z4ZWOdwty83KAnRGEfKjq5_4QPjZRHRPypzPYs64V6w0j
-GCWlVHmFjVz1qT9z5tUtzpSz4N1GoQ4tv0G4wDcnaLoXGUleBcHvWiK51FsMS4rpwp2PCItVT-iUq1K-wSM48yXIVNS9_tAzeF1T1gPccanRkhupLSpjGtV8
-Shx3hg9Ij4lUxMNcRpQ2Y50WGKUCFwNzBA1zQxCNSzAIcNZKsoS9nFsvz8zOiMErYp36KGEH0hN-e3wM5TEU4PaA8ayo5lnyDfsqYtRUBL_UewQODOiNZ_G-
-tOvVDnZGnDD1HRr9ZDv5vCXP9huWsPbtdGUcO-hziK-brOcZPXYSSnqrniAQim-hj7eBDRBvQ9TEjcF6LJr8T6OQxOq1cJgk0XZV34pPbsU-EazVvFaljSnb
-7BHhEpBiC8lAnymZDE7Wm0iKgIyEZmgkkqF1m34ys_Y-qJscRDO8DCF_2rzAGHTdwHu7ALfmAeR7yJ0G5UT0LL6izGjO7D5tWI023-CkZwiyut6fqB2zyiY=
-w1632-h586-no"/>
+<img src="http://s8.postimg.org/viw2hy6fp/Screen_Shot_2015_10_05_at_10_40_55_PM.png"/>
 
 
 As you can see, zeroing the easily identifiable few bright spots that exist outside of the origin in the frequency domain 
