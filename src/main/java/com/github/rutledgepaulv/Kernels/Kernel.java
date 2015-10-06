@@ -1,4 +1,4 @@
-package Kernels;
+package com.github.rutledgepaulv.kernels;
 import java.text.DecimalFormat;
 
 //abstract class for various filtering kernel functions

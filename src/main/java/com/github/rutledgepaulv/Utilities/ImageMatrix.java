@@ -1,7 +1,6 @@
-package Utilities;
+package com.github.rutledgepaulv.utilities;
 
-import java.awt.Color;
-import java.awt.Graphics2D;
+import java.awt.*;
 import java.awt.image.BufferedImage;
 
 //likely all of this could be done much more efficiently by reading into a

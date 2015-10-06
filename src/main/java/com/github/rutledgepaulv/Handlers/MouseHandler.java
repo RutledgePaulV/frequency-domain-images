@@ -1,14 +1,16 @@
-package Handlers;
+package com.github.rutledgepaulv.handlers;
+
+import com.github.rutledgepaulv.fourier.Complex;
+import com.github.rutledgepaulv.fourier.ComplexArrayWrap;
+import com.github.rutledgepaulv.fourier.FFT;
+import com.github.rutledgepaulv.fourier.FFT.Direction;
+import com.github.rutledgepaulv.graphics.Pane;
+import com.github.rutledgepaulv.utilities.ImageMatrix;
+import com.github.rutledgepaulv.utilities.Range;
+import com.github.rutledgepaulv.utilities.ValueMapper;
+
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-import Utilities.ImageMatrix;
-import Utilities.Range;
-import Utilities.ValueMapper;
-import Fourier.Complex;
-import Fourier.ComplexArrayWrap;
-import Fourier.FFT;
-import Fourier.FFT.Direction;
-import Graphics.Pane;
 
 public class MouseHandler implements MouseListener
 {

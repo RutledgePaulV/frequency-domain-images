@@ -1,4 +1,4 @@
-package Fourier;
+package com.github.rutledgepaulv.fourier;
 
 
 public class FFT

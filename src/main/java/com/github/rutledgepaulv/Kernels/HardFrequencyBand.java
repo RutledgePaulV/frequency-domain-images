@@ -1,6 +1,7 @@
-package Kernels;
+package com.github.rutledgepaulv.kernels;
 
-import Utilities.Range;
+
+import com.github.rutledgepaulv.utilities.Range;
 
 public class HardFrequencyBand extends Kernel
 {

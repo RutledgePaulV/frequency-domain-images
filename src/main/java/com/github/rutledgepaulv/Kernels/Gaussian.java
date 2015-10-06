@@ -1,4 +1,4 @@
-package Kernels;
+package com.github.rutledgepaulv.kernels;
 
 public class Gaussian extends Kernel
 {

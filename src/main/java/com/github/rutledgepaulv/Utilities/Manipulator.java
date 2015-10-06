@@ -1,7 +1,6 @@
-package Utilities;
+package com.github.rutledgepaulv.utilities;
 
-import java.awt.Color;
-import java.awt.image.BufferedImage;
+import java.awt.*;
 
 
 public class Manipulator

@@ -1,4 +1,4 @@
-package Utilities;
+package com.github.rutledgepaulv.utilities;
 
 public class ValueMapper
 {
